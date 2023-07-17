@@ -1,0 +1,21 @@
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background: url('../../assets/login.png');
+  background-size: 100% 100%;
+}
+
+.login-card {
+  display: flex;
+  justify-content: center ;
+  width: 440px;
+  height: 360px;
+}
+
+.login-logo {
+  width: 200px;
+  height: 60px;
+}

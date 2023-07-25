@@ -9,8 +9,9 @@
 }
 
 .login-card {
-  display: flex;
-  justify-content: center ;
+  // display: flex;
+  // justify-content: center ;
+  text-align: center;
   width: 440px;
   height: 360px;
 }
@@ -18,4 +19,8 @@
 .login-logo {
   width: 200px;
   height: 60px;
+}
+
+.login-form {
+  text-align: left;
 }
